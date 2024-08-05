@@ -11,7 +11,6 @@
 - Lógica de Programação
 - Java | PHP (POO | CRUD)
 - Banco de Dados (MySQL)
-- Implantação de sistemas
 - Modelagem de sistemas
 - Manutenção de sistemas
 - Desenvolvimento de sistemas
