@@ -1,33 +1,55 @@
-# Bem-vindo ao meu GitHub! 👋
+<h1 align="center">Olá, Me Chamo Layson Batista👋</h1>
 
-## Sobre mim
+<p align="center">
+  <em>Cursando Tecnólogo em Análise em Desenvolvimento de Sisitemas</em>
+</p>
 
-🎓  Finalizado o curso técnico em Desenvolvimento de Sistemas do SENAI.
+<p align="center">
+  <img src="https://github.com/LaysonBatista/laysonbatista/blob/main/commit-animation.gif" width="400px" alt="commit gif looping" />
+</p>
 
-💻 Adquiri conhecimentos em:
-- Análise de requisitos
-- Teste de sistemas
-- Git/Github
-- Lógica de Programação
-- Java | PHP (POO | CRUD)
-- Banco de Dados (MySQL)
-- Modelagem de sistemas
-- Manutenção de sistemas
-- Desenvolvimento de sistemas
-- Teste de sistemas
-- HTML | CSS
-- Bootstrap
-- Eletrônica Básica
-- Sistema Operacional (Básico: Ubuntu e Debian | Intermediário / Avançado: Windows)
-- IoT (Arduino)
-- Metodologias ágeis (SCRUM)
+---
 
-## Próximos passos
+<p align="center">
+  Estou atualmente estudando e me aprimorando na área de tecnologia.  
+  Aqui você encontrará conteúdos e projetos desenvolvidos durante minha jornada de estudo! :)
+</p>
 
-:dart: Em breve, estarei:
-- Entrando no ensino superior para seguir a trilha da programação e tecnologia
-- Continuando a estudar programação e abraçando novos desafios
+<p align="center">
+  <a href="https://www.linkedin.com/in/layson-souza-batista-353228279/">
+    <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=white">
+  </a>
+  <a href="mailto:layson.sbatista@gmail.com">
+    <img src="https://img.shields.io/badge/-contato@fernandakipper.com-00AB33?style=flat-square&logo=Gmail&logoColor=white">
+  </a>
+</p>
 
+---
+
+### 🧠 About Me
+
+- ✨ Técnico em Desenvolvimento De Sistemas (SENAI)
+- 🔭 Cursando Tecnólogo em Análise em Desenvolvimento De Sistemas (FAESA)
+
+---
+
+### 💻 Tech Stack Highlights
+
+<p align="center">
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laysonbatista&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
+</p>
+
+---
+
+### 🟩 Latest Commit Energy
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=laysonbatista&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
+</p>
+
+<p align="center">
+  <em>Keep building. One commit at a time.</em> 🟩
+</p>
 <!--
 **LaysonBatista/laysonbatista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
