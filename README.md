@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  Estou atualmente estudando e me aprimorando na área de tecnologia.  
+  Estou estudando e me aprimorando na área de tecnologia.  
   Aqui você encontrará conteúdos e projetos desenvolvidos durante minha jornada de estudo! :)
 </p>
 
