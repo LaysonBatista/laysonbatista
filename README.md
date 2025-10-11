@@ -1,4 +1,4 @@
-<h1 align="center">Olá, Me Chamo Layson Batista👋</h1>
+<h1 align="center">Olá, eu sou Layson Batista👋</h1>
 
 <p align="center">
   <em>Atualmente Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas</em>
@@ -12,7 +12,7 @@
 
 <p align="center">
   Estou estudando e me aprimorando na área de tecnologia.  
-  Aqui você encontrará conteúdos e projetos desenvolvidos durante minha jornada de estudo! :)
+  Aqui você encontrará conteúdos e projetos desenvolvidos durante minha jornada de aprendizado! :)
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  <em>Keep building. One commit at a time.</em> 🟩
+  <em>Keep building. One commit at a time! ;)</em> 🟩
 </p>
 <!--
 **LaysonBatista/laysonbatista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
