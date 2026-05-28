@@ -1,6 +1,7 @@
 <h1 align="center">Olá, eu sou Layson Batista👋</h1>
 
 <p align="center">
+  <em>Técnico de T.I</em>
   <em>Atualmente Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas</em>
 </p>
 
