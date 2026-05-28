@@ -1,7 +1,6 @@
 <h1 align="center">Olá, eu sou Layson Batista👋</h1>
 
 <p align="center">
-  <em>Técnico de T.I</em>
   <em>Atualmente Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas</em>
 </p>
 
@@ -29,6 +28,7 @@
 
 ### 🧠 About Me
 
+- :computer: Técnico de T.I (Fundação Estadual de Inovação em Saúde - iNOVA Capixaba)
 - ✨ Técnico em Desenvolvimento De Sistemas (SENAI)
 - 🔭 Cursando Tecnólogo em Análise em Desenvolvimento De Sistemas (FAESA)
 
