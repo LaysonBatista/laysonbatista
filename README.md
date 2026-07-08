@@ -28,7 +28,7 @@
 
 ### 🧠 About Me
 
-- :computer: Técnico de T.I (Fundação Estadual de Inovação em Saúde - iNOVA Capixaba)
+- :computer: Assistente de Suporte - TI (Agir)
 - ✨ Técnico em Desenvolvimento De Sistemas (SENAI)
 - 🔭 Cursando Tecnólogo em Análise em Desenvolvimento De Sistemas (FAESA)
 
